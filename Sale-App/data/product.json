@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16e",
+    "price": "16.999.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16e-256gb.png",
+    "cate_id": 1
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16",
+    "price": "22.999.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-1.png",
+    "cate_id": 1
+  },
+  {
+    "id": 3,
+    "name": "iPhone 16 Plus",
+    "price": "25.999.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-plus-1.png",
+    "cate_id": 1
+  },
+  {
+    "id": 4,
+    "name": "iPhone 16 Pro",
+    "price": "28.999.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-pro_1.png",
+    "cate_id": 1
+  },
+  {
+    "id": 5,
+    "name": "iPhone 16 Pro Max",
+    "price": "38.999.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-pro-max.png",
+    "cate_id": 1
+  },
+  {
+    "id": 6,
+    "name": "iPhone 17e",
+    "price": "17.999.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone_17e_pink_1.png",
+    "cate_id": 1
+  },
+  {
+    "id": 7,
+    "name": "iPhone 17",
+    "price": "26.990.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone_17_256gb-3_3.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 8,
+    "name": "iPhone Air",
+    "price": "22.990.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone_air-3_2.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 9,
+    "name": "iPhone 17 Pro",
+    "price": "31.990.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone_17_pro_512gb.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 10,
+    "name": "iPhone 17 Pro Max",
+    "price": "34.990.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-17-pro-max_3.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 11,
+    "name": "IPad Air M4",
+    "price": "21.990.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/_/1_1__1_1_2.png",
+    "cate_id": 2
+  },
+  {
+    "id": 12,
+    "name": "IPad Pro Chip M5",
+    "price": "30.990.000",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-pro-m5_1.jpg",
+    "cate_id": 2
+  }
+]
